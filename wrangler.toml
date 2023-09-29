@@ -49,3 +49,6 @@ compatibility_date = "2023-09-22"
 # [[migrations]]
 # tag = "v1"
 # new_classes = ["MyDurableObject"]
+
+[ai]
+binding = 'AI' # available at `.env.AI`
